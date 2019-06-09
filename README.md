@@ -1,2 +1,2 @@
 # Java-Projects
-Academic Java Projects
+Academic/Personal Java Projects
